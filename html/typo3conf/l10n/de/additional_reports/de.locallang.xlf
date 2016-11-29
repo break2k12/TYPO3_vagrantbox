@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2015-06-20T07:47:08Z" product-name="additional_reports" target-language="de">
+    <header/>
+    <body>
+      <trans-unit id="noresults" xml:space="preserve" approved="yes">
+        <source>There is no results to display</source>
+      <target state="translated">Es gibt keine Ergebnisse zum Anzeigen</target></trans-unit>
+      <trans-unit id="extension" xml:space="preserve" approved="yes">
+        <source>Extension</source>
+      <target state="translated">Erweiterung</target></trans-unit>
+      <trans-unit id="name" xml:space="preserve" approved="yes">
+        <source>Name</source>
+      <target state="translated">Name</target></trans-unit>
+      <trans-unit id="path" xml:space="preserve" approved="yes">
+        <source>Path</source>
+      <target state="translated">Pfad</target></trans-unit>
+      <trans-unit id="content" xml:space="preserve" approved="yes">
+        <source>Content</source>
+      <target state="translated">Inhalt</target></trans-unit>
+      <trans-unit id="user" xml:space="preserve" approved="yes">
+        <source>Backend user</source>
+      <target state="translated">Backend-Benutzer</target></trans-unit>
+      <trans-unit id="plugin" xml:space="preserve" approved="yes">
+        <source>Plugin</source>
+      <target state="translated">Plug-In</target></trans-unit>
+      <trans-unit id="ctype" xml:space="preserve" approved="yes">
+        <source>Content type</source>
+      <target state="translated">Inhaltstyp</target></trans-unit>
+      <trans-unit id="locallang" xml:space="preserve" approved="yes">
+        <source>Locallang</source>
+      <target state="translated">Locallang</target></trans-unit>
+      <trans-unit id="eminfo" xml:space="preserve" approved="yes">
+        <source>Extension manager</source>
+      <target state="translated">Erweiterungsmanager</target></trans-unit>
+      <trans-unit id="used" xml:space="preserve" approved="yes">
+        <source>Used ?</source>
+      <target state="translated">Benutzt?</target></trans-unit>
+      <trans-unit id="tvused" xml:space="preserve" approved="yes">
+        <source>Used by templavoila ?</source>
+      <target state="translated">Benutzt TemplaVoila das?</target></trans-unit>
+      <trans-unit id="pid" xml:space="preserve" approved="yes">
+        <source>Page uid</source>
+      <target state="translated">Seite UID</target></trans-unit>
+      <trans-unit id="uid" xml:space="preserve" approved="yes">
+        <source>Content uid</source>
+      <target state="translated">Inhalt UID</target></trans-unit>
+      <trans-unit id="pagetitle" xml:space="preserve" approved="yes">
+        <source>Page title</source>
+      <target state="translated">Seitentitel</target></trans-unit>
+      <trans-unit id="pluginschoose" xml:space="preserve" approved="yes">
+        <source>Choose a display mode :</source>
+      <target state="translated">Anzeigemodus wählen:</target></trans-unit>
+      <trans-unit id="pluginsmode1" xml:space="preserve" approved="yes">
+        <source>List of all the plugins</source>
+      <target state="translated">Liste aller Plug-Ins</target></trans-unit>
+      <trans-unit id="pluginsmode2" xml:space="preserve" approved="yes">
+        <source>List of all the content types</source>
+      <target state="translated">Liste aller Inhaltstypen</target></trans-unit>
+      <trans-unit id="pluginsmode3" xml:space="preserve" approved="yes">
+        <source>List of used content types</source>
+      <target state="translated">Liste der benutzten Inhaltstypen</target></trans-unit>
+      <trans-unit id="pluginsmode3hidden" xml:space="preserve" approved="yes">
+        <source>List of used content types (and hidden)</source>
+      <target state="translated">Liste der benutzten Inhaltstypen (inkl. versteckten)</target></trans-unit>
+      <trans-unit id="pluginsmode4" xml:space="preserve" approved="yes">
+        <source>List of used plugins</source>
+      <target state="translated">Liste der benutzten Plug-Ins</target></trans-unit>
+      <trans-unit id="pluginsmode4hidden" xml:space="preserve" approved="yes">
+        <source>List of used plugins (and hidden)</source>
+      <target state="translated">Liste der benutzten Plug-Ins (inkl. versteckten)</target></trans-unit>
+      <trans-unit id="pluginsmode5" xml:space="preserve" approved="yes">
+        <source>Summary</source>
+      <target state="translated">Zusammenfassung</target></trans-unit>
+      <trans-unit id="all" xml:space="preserve" approved="yes">
+        <source>All</source>
+      <target state="translated">Alle</target></trans-unit>
+      <trans-unit id="filterByCat" xml:space="preserve" approved="yes">
+        <source>Filter by category</source>
+      <target state="translated">Nach Kategorie filtern</target></trans-unit>
+      <trans-unit id="pluginssubmit" xml:space="preserve" approved="yes">
+        <source>Display</source>
+      <target state="translated">Anzeigen</target></trans-unit>
+      <trans-unit id="references" xml:space="preserve" approved="yes">
+        <source>References</source>
+      <target state="translated">Referenzen</target></trans-unit>
+      <trans-unit id="yes" xml:space="preserve" approved="yes">
+        <source>Yes</source>
+      <target state="translated">Ja</target></trans-unit>
+      <trans-unit id="no" xml:space="preserve" approved="yes">
+        <source>No</source>
+      <target state="translated">Nein</target></trans-unit>
+      <trans-unit id="emlink" xml:space="preserve" approved="yes">
+        <source>EM Link</source>
+      <target state="translated">EM Link</target></trans-unit>
+      <trans-unit id="ajax_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - ajax</source>
+      <target state="translated">Zusätzliche Berichte - Ajax</target></trans-unit>
+      <trans-unit id="ajax_description" xml:space="preserve" approved="yes">
+        <source>List of all the ajax.php methods with informations and status for each of them.
+            </source>
+      <target state="translated">Liste aller ajax.php-Methoden mit Informationen und Status für jede Methode.
+</target></trans-unit>
+      <trans-unit id="eid_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - eID</source>
+      <target state="translated">Zusätzliche Berichte - eID</target></trans-unit>
+      <trans-unit id="eid_description" xml:space="preserve" approved="yes">
+        <source>List of all the eID with informations and status for each of them.</source>
+      <target state="translated">Liste mit Informationen aller eIDs</target></trans-unit>
+      <trans-unit id="extdirect_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - ExtDirect</source>
+      <target state="translated">Zusätzliche Berichte - ExtDirect</target></trans-unit>
+      <trans-unit id="extdirect_description" xml:space="preserve" approved="yes">
+        <source>List of all the ExtDirect with informations and status for each of them.</source>
+      <target state="translated">Liste mit Informationen zu allen ExtDirect</target></trans-unit>
+      <trans-unit id="clikeys_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - cliKeys</source>
+      <target state="translated">Zusätzliche Berichte - cliKeys</target></trans-unit>
+      <trans-unit id="clikeys_description" xml:space="preserve" approved="yes">
+        <source>List of all the cliKeys with informations and status for each of them.</source>
+      <target state="translated">Liste mit Informationen aller cliKeys.</target></trans-unit>
+      <trans-unit id="plugins_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - plugins &amp; content type</source>
+      <target state="translated">Zusätzliche Berichte - Plugins &amp; Inhaltstypen</target></trans-unit>
+      <trans-unit id="plugins_description" xml:space="preserve">
+        <source>List of all the plugins and contents type with informations and status for each of
+                them. With this report you can easily know if a plugin or a content
+                type is used on the system (and where it is used).
+            </source>
+      <target></target><alt-trans xml:space="preserve" origin="zabinetta2"><target>Liste aller Plugins und Inhaltselemente mit Informationen und Status zu jedem
+ einzelnen. Durch diesen Bericht können sie schnell erkennen, ob ein Plugin
+ oder Inhaltstyp im System benützt wird (und wo).</target></alt-trans></trans-unit>
+      <trans-unit id="xclass_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - XCLASS</source>
+      <target state="translated">Zusätzliche Berichte - XCLASS</target></trans-unit>
+      <trans-unit id="xclass_description" xml:space="preserve" approved="no">
+        <source>List of all the XCLASS with the name and the path for each of them.</source>
+      <target state="needs-translation">Liste mit Namen und Path aller Hooks.</target><note>91%</note><alt-trans xml:space="preserve" origin="zabinetta2"><target>Liste mit Namen und Pfad aller Hooks.</target></alt-trans></trans-unit>
+      <trans-unit id="dbcheck_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - check the database</source>
+      <target state="translated">Zusätzliche Berichte - Datenbank prüfen</target></trans-unit>
+      <trans-unit id="dbcheck_description" xml:space="preserve" approved="yes">
+        <source>Check the database integrity.</source>
+      <target state="translated">Integrität der Datenbank überprüfen.</target></trans-unit>
+      <trans-unit id="hooks_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - hooks</source>
+      <target state="translated">Zusätzliche Berichte - Hooks</target></trans-unit>
+      <trans-unit id="hooks_description" xml:space="preserve" approved="yes">
+        <source>List of all the hooks with the name and the path for each of them.</source>
+      <target state="translated">Liste mit Namen und Path aller Hooks.</target></trans-unit>
+      <trans-unit id="realurlerrors_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - realurl errors</source>
+      <target state="translated">Zusätzliche Berichte - RealURL Fehler</target></trans-unit>
+      <trans-unit id="realurlerrors_description" xml:space="preserve" approved="yes">
+        <source>List of all the errors in realurl.</source>
+      <target state="translated">Liste aller RealURL Fehler.</target></trans-unit>
+      <trans-unit id="logerrors_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - log errors</source>
+      <target state="translated">Zusätzliche Berichte - Log Fehler</target></trans-unit>
+      <trans-unit id="logerrors_description" xml:space="preserve" approved="yes">
+        <source>List of all the errors in the log.</source>
+      <target state="translated">Liste aller Logfehler.</target></trans-unit>
+      <trans-unit id="websitesconf_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - websites/domains conf</source>
+      <target state="translated">Zusätzliche Berichte - Website/Domain Konfiguration</target></trans-unit>
+      <trans-unit id="websitesconf_description" xml:space="preserve" approved="yes">
+        <source>Check the conf of websites and domains.</source>
+      <target state="translated">Konfiguration der Website und Domains überprüfen.</target></trans-unit>
+      <trans-unit id="hooks_core" xml:space="preserve" approved="yes">
+        <source>Core hooks</source>
+      <target state="translated">Core Hooks</target></trans-unit>
+      <trans-unit id="hooks_extension" xml:space="preserve" approved="yes">
+        <source>Extension hooks (experimental)</source>
+      <target state="translated">Erweiterungshooks (Experimental)</target></trans-unit>
+      <trans-unit id="hooks_corefile" xml:space="preserve" approved="yes">
+        <source>Core file</source>
+      <target state="translated">Core Dateien</target></trans-unit>
+      <trans-unit id="hooks_name" xml:space="preserve" approved="yes">
+        <source>Hook name</source>
+      <target state="translated">Name des Hooks</target></trans-unit>
+      <trans-unit id="hooks_file" xml:space="preserve" approved="yes">
+        <source>File or class</source>
+      <target state="translated">Datei oder Klasse</target></trans-unit>
+      <trans-unit id="hooks_line" xml:space="preserve" approved="yes">
+        <source>Line with the hook in the ext_localconf.php file of the extension</source>
+      <target state="translated">Zeile des Hooks in der ext_localconf.php Datei der Erweiterung</target></trans-unit>
+      <trans-unit id="status_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - general status</source>
+      <target state="translated">Zusätzliche Berichte - Allgemeiner Status</target></trans-unit>
+      <trans-unit id="status_description" xml:space="preserve" approved="yes">
+        <source>List of all the usefull informations about your installation.</source>
+      <target state="translated">Liste mit nützliche Informationen über die Installation.</target></trans-unit>
+      <trans-unit id="status_sitename" xml:space="preserve" approved="yes">
+        <source>Sitename</source>
+      <target state="translated">Seitenname</target></trans-unit>
+      <trans-unit id="status_version" xml:space="preserve" approved="yes">
+        <source>Version</source>
+      <target state="translated">Version</target></trans-unit>
+      <trans-unit id="status_lastversion" xml:space="preserve" approved="yes">
+        <source>Last version</source>
+      <target state="translated">Letzte Version</target></trans-unit>
+      <trans-unit id="status_path" xml:space="preserve" approved="yes">
+        <source>Path</source>
+      <target state="translated">Pfad</target><note>100%</note></trans-unit>
+      <trans-unit id="status_im" xml:space="preserve" approved="yes">
+        <source>ImageMagick</source>
+      <target state="translated">ImageMagick</target></trans-unit>
+      <trans-unit id="status_loadedextensions" xml:space="preserve" approved="yes">
+        <source>Loaded extensions</source>
+      <target state="translated">Geladene Erweiterungen</target></trans-unit>
+      <trans-unit id="status_nocrontab" xml:space="preserve" approved="yes">
+        <source>No crontab</source>
+      <target state="translated">Keine Crontabelle</target></trans-unit>
+      <trans-unit id="extensions_title" xml:space="preserve" approved="yes">
+        <source>Additional reports - loaded extension list</source>
+      <target state="translated">Zusätzliche Berichte - Liste geladener Erweiterungen</target></trans-unit>
+      <trans-unit id="extensions_description" xml:space="preserve" approved="yes">
+        <source>List of all the extension with informations for each of them.</source>
+      <target state="translated">Liste mit Informationen aller Erweiterungen.</target></trans-unit>
+      <trans-unit id="extensions_tables" xml:space="preserve" approved="yes">
+        <source>Tables and fields</source>
+      <target state="translated">Tabellen und Felder</target></trans-unit>
+      <trans-unit id="extensions_tablesintegrity" xml:space="preserve" approved="yes">
+        <source>Need DB update ?</source>
+      <target state="translated">Aktualisierung der Datenbank notwendig?</target></trans-unit>
+      <trans-unit id="extensions_confintegrity" xml:space="preserve" approved="yes">
+        <source>Need extConf update ?</source>
+      <target state="translated">Ist eine Aktualisierung von extConf notwendig?</target></trans-unit>
+      <trans-unit id="extensions_files" xml:space="preserve" approved="yes">
+        <source>Modified files !!!</source>
+      <target state="translated">Veränderte Dateien !!!</target></trans-unit>
+      <trans-unit id="extensions_filesmodified" xml:space="preserve" approved="yes">
+        <source>modified(s) file(s) in this extension</source>
+      <target state="translated">Veränderte Datei(en) in dieser Erweiterung </target></trans-unit>
+      <trans-unit id="extensions_tablesmodified" xml:space="preserve" approved="yes">
+        <source>table(s) in this extension</source>
+      <target state="translated">Tabelle(n) in dieser Erweiterung</target></trans-unit>
+      <trans-unit id="extensions_dev" xml:space="preserve">
+        <source>specific developpment(s)</source>
+      <target></target></trans-unit>
+      <trans-unit id="extensions_unloaded" xml:space="preserve" approved="yes">
+        <source>unloaded extension(s)</source>
+      <target state="translated">Nicht-geladene Erweiterung(en)</target></trans-unit>
+      <trans-unit id="extensions_toupdate" xml:space="preserve" approved="yes">
+        <source>extension(s) to update</source>
+      <target state="translated">Erweiterung(en) zum Aktualisieren</target></trans-unit>
+      <trans-unit id="extensions_extensions" xml:space="preserve" approved="yes">
+        <source>loaded extension(s)</source>
+      <target state="translated">geladene Erweiterung(en)</target></trans-unit>
+      <trans-unit id="extensions_ter" xml:space="preserve" approved="yes">
+        <source>extension(s) from the TER</source>
+      <target state="translated">Erweiterung(en) vom TER</target></trans-unit>
+      <trans-unit id="extensions_extensionsmodified" xml:space="preserve" approved="yes">
+        <source>modified extension(s)</source>
+      <target state="translated">Veränderte Erweiterung(en)</target></trans-unit>
+      <trans-unit id="extensions_updateter" xml:space="preserve" approved="yes">
+        <source>You need to update the extension list in the Extension Manager.</source>
+      <target state="translated">Sie müssen die Liste der Erweiterung(en) über den Erweiterungsmanager aktualisieren.</target></trans-unit>
+      <trans-unit id="first" xml:space="preserve" approved="yes">
+        <source>First</source>
+      <target state="translated">Erste(r)</target></trans-unit>
+      <trans-unit id="previous" xml:space="preserve" approved="yes">
+        <source>Previous</source>
+      <target state="translated">Zurück</target></trans-unit>
+      <trans-unit id="next" xml:space="preserve" approved="yes">
+        <source>Next</source>
+      <target state="translated">Weiter</target></trans-unit>
+      <trans-unit id="last" xml:space="preserve" approved="yes">
+        <source>Last</source>
+      <target state="translated">Letzte(r)</target></trans-unit>
+      <trans-unit id="pageIndicator" xml:space="preserve" approved="yes">
+        <source>Page %1$s of %2$d</source>
+      <target state="translated">Seite %1$s von %2$d</target></trans-unit>
+      <trans-unit id="rangeIndicator" xml:space="preserve" approved="yes">
+        <source>Records %1$d - %2$d</source>
+      <target state="translated">Datensätze %1$d - %2$d</target></trans-unit>
+      <trans-unit id="flushalllog" xml:space="preserve">
+        <source>Flush all log</source>
+      <target></target><alt-trans xml:space="preserve" origin="zabinetta2"><target>Kompletten Log leeren</target></alt-trans></trans-unit>
+      <trans-unit id="error" xml:space="preserve" approved="yes">
+        <source>Error</source>
+      <target state="translated">Fehler</target></trans-unit>
+      <trans-unit id="counter" xml:space="preserve" approved="yes">
+        <source>Counter</source>
+      <target state="translated">Zähler</target></trans-unit>
+      <trans-unit id="crdate" xml:space="preserve">
+        <source>First time</source>
+      <target></target></trans-unit>
+      <trans-unit id="tstamp" xml:space="preserve">
+        <source>Last time</source>
+      <target></target></trans-unit>
+      <trans-unit id="last_referer" xml:space="preserve">
+        <source>Referer</source>
+      <target></target></trans-unit>
+      <trans-unit id="downloads" xml:space="preserve" approved="yes">
+        <source>Downloads</source>
+      <target state="translated">Downloads</target></trans-unit>
+      <trans-unit id="notspecified" xml:space="preserve" approved="yes">
+        <source>Not specified</source>
+      <target state="translated">Nicht spezifiziert</target></trans-unit>
+      <trans-unit id="versioncheck" xml:space="preserve">
+        <source>Version check</source>
+      <target></target></trans-unit>
+      <trans-unit id="nottested" xml:space="preserve">
+        <source>Not tested</source>
+      <target></target></trans-unit>
+      <trans-unit id="unknown" xml:space="preserve">
+        <source>Unknown</source>
+      <target></target></trans-unit>
+      <trans-unit id="switch" xml:space="preserve">
+        <source>Switch to</source>
+      <target></target></trans-unit>
+      <trans-unit id="newwindow" xml:space="preserve">
+        <source>New window</source>
+      <target></target><alt-trans xml:space="preserve" origin="zabinetta2"><target>Neues Fenster</target></alt-trans></trans-unit>
+      <trans-unit id="domain" xml:space="preserve">
+        <source>Domain</source>
+      <target></target></trans-unit>
+      <trans-unit id="domains" xml:space="preserve">
+        <source>Domain(s)</source>
+      <target></target></trans-unit>
+      <trans-unit id="preview" xml:space="preserve">
+        <source>Preview</source>
+      <target></target><alt-trans xml:space="preserve" origin="zabinetta2"><target>Voransicht</target></alt-trans></trans-unit>
+      <trans-unit id="careful" xml:space="preserve">
+        <source>Careful</source>
+      <target></target><alt-trans xml:space="preserve" origin="zabinetta2"><target>Behutsam</target></alt-trans></trans-unit>
+      <trans-unit id="carefuldesc" xml:space="preserve">
+        <source>A plugin/ctype can be also called in typoscript, typoscript file, php file...</source>
+      <target></target></trans-unit>
+      <trans-unit id="xclasscarefuldesc" xml:space="preserve">
+        <source>No autoload XCLASS found, maybe you need to clear caches and refresh the page</source>
+      <target></target></trans-unit>
+      <trans-unit id="latestbranch" xml:space="preserve">
+        <source>Lastest from this branch</source>
+      <target></target></trans-unit>
+      <trans-unit id="lateststable" xml:space="preserve">
+        <source>Lastest stable</source>
+      <target></target></trans-unit>
+      <trans-unit id="latestlts" xml:space="preserve">
+        <source>Lastest LTS</source>
+      <target></target></trans-unit>
+      <trans-unit id="comparesame" xml:space="preserve">
+        <source>Compare with same version</source>
+      <target></target></trans-unit>
+      <trans-unit id="comparelast" xml:space="preserve">
+        <source>Compare with last version</source>
+      <target></target></trans-unit>
+    </body>
+  </file>
+</xliff>

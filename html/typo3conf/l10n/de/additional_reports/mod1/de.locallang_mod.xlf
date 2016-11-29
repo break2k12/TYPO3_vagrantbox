@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T21:51:32Z" product-name="additional_reports" target-language="de">
+		<header/>
+		<body>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Additional reports</source>
+			<target state="translated">Zusätzliche Berichte</target><alt-trans xml:space="preserve" origin="fschaeffer"><target>Zusätzliche Berichte</target></alt-trans></trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>Additional reports</source>
+			<target state="translated">Zusätzliche Berichte</target><alt-trans xml:space="preserve" origin="fschaeffer"><target>Zusätzliche Berichte</target></alt-trans></trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>Additional reports</source>
+			<target state="translated">Zusätzliche Berichte</target></trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+			<label index="mlang_tabs_tab">Powermail</label>
+			<label index="mlang_labels_tabdescr">Liste aller in die Datenbank eingetragenen Mails mit Filter-Möglichkeit und CSV-Export (Excel).</label>
+			<label index="mlang_labels_tablabel">Powermail Liste</label>
+			<label index="pluginWizardTitle">Powermail</label>
+			<label index="pluginWizardDescription">Umfabgreiche und einfache Erweiterung für E-Mail-Formulare, optimiert für Redakteure. Powermail bietet die Speicherung von Daten, erweiterte Validierung von Eingaben, fortschrittlichen SPAM-Schutz, Marketing-Informationen und sehr viele Optionen für die Konfiguration.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-11-30T15:09:41Z" product-name="powermail" target-language="de">
+    <header/>
+    <body>
+      <trans-unit id="title" xml:space="preserve" approved="yes">
+        <source>Powermail</source>
+      <target state="translated">Powermail</target></trans-unit>
+      <trans-unit id="function1" xml:space="preserve" approved="yes">
+        <source>Powermail list and export</source>
+      <target state="translated">Powermail-Liste und-Export</target></trans-unit>
+      <trans-unit id="function2" xml:space="preserve" approved="yes">
+        <source>Powermail charts</source>
+      <target state="translated">Powermail-Diagramme</target></trans-unit>
+      <trans-unit id="nopowermails1" xml:space="preserve" approved="yes">
+        <source>No powermails on current page!</source>
+      <target state="translated">Keine Powermails auf aktueller Seite!</target></trans-unit>
+      <trans-unit id="nopowermails2" xml:space="preserve" approved="yes">
+        <source>Please choose a page with powermails inside.</source>
+      <target state="translated">Bitte wählen Sie eine Seite mit Powermails aus.</target></trans-unit>
+      <trans-unit id="title_no" xml:space="preserve" approved="yes">
+        <source>#</source>
+      <target state="translated">#</target></trans-unit>
+      <trans-unit id="title_date" xml:space="preserve" approved="yes">
+        <source>Date</source>
+      <target state="translated">Datum</target></trans-unit>
+      <trans-unit id="title_sender" xml:space="preserve" approved="yes">
+        <source>Sender</source>
+      <target state="translated">Absender</target></trans-unit>
+      <trans-unit id="title_IP" xml:space="preserve" approved="yes">
+        <source>Sender IP</source>
+      <target state="translated">Absender-IP</target></trans-unit>
+      <trans-unit id="title_receiver" xml:space="preserve" approved="yes">
+        <source>Receiver</source>
+      <target state="translated">Empfänger</target></trans-unit>
+      <trans-unit id="title_details" xml:space="preserve" approved="yes">
+        <source>Details</source>
+      <target state="translated">Details</target></trans-unit>
+      <trans-unit id="title_delete" xml:space="preserve" approved="yes">
+        <source>Delete</source>
+      <target state="translated">Löschen</target></trans-unit>
+      <trans-unit id="export_download_success" xml:space="preserve" approved="yes">
+        <source>Success!</source>
+      <target state="translated">Erfolg!</target></trans-unit>
+      <trans-unit id="export_download_download" xml:space="preserve" approved="yes">
+        <source>Download CSV File</source>
+      <target state="translated">CSV-Datei herunterladen</target></trans-unit>
+      <trans-unit id="export_download_downloadZIP" xml:space="preserve" approved="yes">
+        <source>Download compressed CSV File</source>
+      <target state="translated">Komprimierte CSV-Datei herunterladen</target></trans-unit>
+      <trans-unit id="export_icon_excel" xml:space="preserve" approved="yes">
+        <source>Export to excel file format</source>
+      <target state="translated">Export im Excel-Format</target></trans-unit>
+      <trans-unit id="export_icon_csv" xml:space="preserve" approved="yes">
+        <source>Export to csv file format</source>
+      <target state="translated">Export im CSV-Format</target></trans-unit>
+      <trans-unit id="export_icon_html" xml:space="preserve" approved="yes">
+        <source>Export to HTML table</source>
+      <target state="translated">Export im HTML-Format</target></trans-unit>
+      <trans-unit id="icon_deloff" xml:space="preserve" approved="yes">
+        <source>Delete after export disabled! Click to enable delete after export</source>
+      <target state="translated">Löschen nach Export deaktiviert! Klicken, um Löschen nach Export zu aktivieren</target></trans-unit>
+      <trans-unit id="icon_delon" xml:space="preserve" approved="yes">
+        <source>Delete after export enabled! Click to disable delete after export</source>
+      <target state="translated">Löschen nach Export aktiviert! Klicken, um Löschen nach Export zu deaktivieren</target></trans-unit>
+      <trans-unit id="icon_print" xml:space="preserve" approved="yes">
+        <source>Click here to print this view</source>
+      <target state="translated">Hier klicken, um diese Ansicht zu drucken</target></trans-unit>
+      <trans-unit id="icon_close" xml:space="preserve" approved="yes">
+        <source>Click hier to close the window</source>
+      <target state="translated">Hier klicken, um das Popup zu schließen</target></trans-unit>
+      <trans-unit id="delall_sure" xml:space="preserve" approved="yes">
+        <source>If you are going on, all mails will be deleted after export, are you sure?</source>
+      <target state="translated">Alle E-Mails werden nach dem Export automatisch gelöscht, sind Sie sicher?</target></trans-unit>
+      <trans-unit id="pagebrowser_page" xml:space="preserve" approved="yes">
+        <source>page</source>
+      <target state="translated">Seite</target></trans-unit>
+      <trans-unit id="pagebrowser_upto" xml:space="preserve" approved="yes">
+        <source>up to</source>
+      <target state="translated">bis</target></trans-unit>
+      <trans-unit id="pagebrowser_within" xml:space="preserve" approved="yes">
+        <source>within</source>
+      <target state="translated">von insgesamt</target></trans-unit>
+      <trans-unit id="filter_start" xml:space="preserve" approved="yes">
+        <source>Start</source>
+      <target state="translated">Beginn</target></trans-unit>
+      <trans-unit id="filter_end" xml:space="preserve" approved="yes">
+        <source>End</source>
+      <target state="translated">Ende</target></trans-unit>
+      <trans-unit id="del_sure" xml:space="preserve" approved="yes">
+        <source>Are you sure to delete this entry?</source>
+      <target state="translated">Diesen Datensatz tatsächlich löschen?</target></trans-unit>
+      <trans-unit id="del_message" xml:space="preserve" approved="yes">
+        <source>Mail with uid %s deleted!</source>
+      <target state="translated">E-Mail mit der uid %s erfolgreich gelöscht!</target></trans-unit>
+      <trans-unit id="chart_chart" xml:space="preserve" approved="yes">
+        <source>Chart: Number of the last mails</source>
+      <target state="translated">Diagramm: Anzahl der letzten E-Mails</target></trans-unit>
+      <trans-unit id="chart_table" xml:space="preserve" approved="yes">
+        <source>Table: Details about the last mails</source>
+      <target state="translated">Tabelle: Details über die letzten E-Mails</target></trans-unit>
+      <trans-unit id="path" xml:space="preserve" approved="yes">
+        <source>Path</source>
+      <target state="translated">Pfad</target></trans-unit>
+      <trans-unit id="wait" xml:space="preserve" approved="yes">
+        <source>Please wait...</source>
+      <target state="translated">Bitte warten...</target></trans-unit>
+      <trans-unit id="loading" xml:space="preserve" approved="yes">
+        <source>Loading mails</source>
+      <target state="translated">Datensätze werden geladen!</target></trans-unit>
+      <trans-unit id="delete" xml:space="preserve" approved="yes">
+        <source>Delete</source>
+      <target state="translated">Löschen</target></trans-unit>
+      <trans-unit id="perpage" xml:space="preserve" approved="yes">
+        <source>Per Page</source>
+      <target state="translated">Pro Seite</target></trans-unit>
+      <trans-unit id="deletechosen" xml:space="preserve" approved="yes">
+        <source>Delete chosen mails</source>
+      <target state="translated">Ausgewählte Datensätze löschen</target></trans-unit>
+      <trans-unit id="choseline" xml:space="preserve" approved="yes">
+        <source>An error has occurred</source>
+      <target state="translated">Ein Fehler ist aufgetreten</target></trans-unit>
+      <trans-unit id="choseline2" xml:space="preserve" approved="yes">
+        <source>Please select at least one row.</source>
+      <target state="translated">Bitte wählen Sie mindestens eine Zeile aus!</target></trans-unit>
+      <trans-unit id="yes" xml:space="preserve" approved="yes">
+        <source>Yes</source>
+      <target state="translated">Ja</target></trans-unit>
+      <trans-unit id="no" xml:space="preserve" approved="yes">
+        <source>No</source>
+      <target state="translated">Nein</target></trans-unit>
+      <trans-unit id="created" xml:space="preserve" approved="yes">
+        <source>Created</source>
+      <target state="translated">Erstellt</target></trans-unit>
+      <trans-unit id="delsure" xml:space="preserve" approved="yes">
+        <source>Do you really want to delete the chosen rows?</source>
+      <target state="translated">Ausgewählte Datensätze tatsächlich löschen?</target></trans-unit>
+      <trans-unit id="showrows" xml:space="preserve" approved="yes">
+        <source>Show rows {0} - {1} of {2}</source>
+      <target state="translated">Datensätze {0} - {1} von {2} anzeigen</target></trans-unit>
+      <trans-unit id="noresults" xml:space="preserve" approved="yes">
+        <source>There are no mails</source>
+      <target state="translated">Keine Datensätze vorhanden</target></trans-unit>
+      <trans-unit id="rows" xml:space="preserve" approved="yes">
+        <source>Rows</source>
+      <target state="translated">Datensätze</target></trans-unit>
+      <trans-unit id="shortcut" xml:space="preserve" approved="yes">
+        <source>Create a shortcut to this page</source>
+      <target state="translated">Erstellt eine Verknüpfung zu dieser Seite</target></trans-unit>
+      <trans-unit id="exportformat" xml:space="preserve" approved="yes">
+        <source>Export format:</source>
+      <target state="translated">Exportformat:</target></trans-unit>
+      <trans-unit id="exportpdf" xml:space="preserve" approved="yes">
+        <source>PDF Export</source>
+      <target state="translated">PDF-Export</target></trans-unit>
+      <trans-unit id="exporthtml" xml:space="preserve" approved="yes">
+        <source>HTML Export</source>
+      <target state="translated">HTML-Export</target></trans-unit>
+      <trans-unit id="exportcsv" xml:space="preserve" approved="yes">
+        <source>CSV Export</source>
+      <target state="translated">CSV-Export</target></trans-unit>
+      <trans-unit id="exportxls" xml:space="preserve" approved="yes">
+        <source>XLS Export</source>
+      <target state="translated">XLS-Export</target></trans-unit>
+      <trans-unit id="start" xml:space="preserve" approved="yes">
+        <source>Start:</source>
+      <target state="translated">Beginn:</target></trans-unit>
+      <trans-unit id="end" xml:space="preserve" approved="yes">
+        <source>End:</source>
+      <target state="translated">Ende:</target></trans-unit>
+      <trans-unit id="pivars" xml:space="preserve" approved="yes">
+        <source>piVars</source>
+      <target state="translated">piVars</target></trans-unit>
+      <trans-unit id="date" xml:space="preserve" approved="yes">
+        <source>Date</source>
+      <target state="translated">Datum</target></trans-unit>
+      <trans-unit id="sender" xml:space="preserve" approved="yes">
+        <source>Sender</source>
+      <target state="translated">Absender</target></trans-unit>
+      <trans-unit id="receiver" xml:space="preserve" approved="yes">
+        <source>Receiver</source>
+      <target state="translated">Empfänger</target></trans-unit>
+      <trans-unit id="ip" xml:space="preserve" approved="yes">
+        <source>IP-Address</source>
+      <target state="translated">IP-Adresse</target></trans-unit>
+      <trans-unit id="phpexcel_library" xml:space="preserve" approved="yes">
+        <source>You need the extension phpexcel_library to use this feature!</source>
+      <target state="translated">Bitte installieren Sie die Erweiterung phpexcel_library!</target></trans-unit>
+      <trans-unit id="noPdf" xml:space="preserve" approved="yes">
+        <source>This export format is currently not implemented. Please contact the powermail development team, if you want to sponsor this feature.</source>
+      <target state="translated">Dieses Export-Format ist derzeit nicht implementiert. Bitte kontaktieren Sie das Powermail Entwicklungsteam, wenn Sie diese Funktion sponsoren möchten.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

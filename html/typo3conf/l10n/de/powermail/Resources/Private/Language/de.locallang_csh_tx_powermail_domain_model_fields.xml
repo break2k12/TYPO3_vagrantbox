@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+			<label index="title.description">Feldbezeichnung eintragen</label>
+			<label index="type.description">Feldtyp wählen</label>
+			<label index="settings.description">Pro Zeile eine Auswahl. Wenn Sie label und value unterschiedlich bezeichnen wollen, nutzen Sie bitte |. Vorbefüllen mit *</label>
+			<label index="path.description">Pfad zum TypoScript, das gerendert werden soll, angeben (z.B. lib.showsometext)</label>
+			<label index="content_element.description">Inhaltselement, das im Formular angezeigt werden soll, auswählen</label>
+			<label index="text.description">Text für Frontend-Ausgabe eingeben</label>
+			<label index="sender_email.description">Beinhaltet dieses Feld die E-Mail-Adresse des Absenders?</label>
+			<label index="sender_name.description">Beinhaltet dieses Feld den Namen des Absenders?</label>
+			<label index="validation_title.description">Validierungseinstellungen</label>
+			<label index="mandatory.description">Pflichtfeld?</label>
+			<label index="validation.description">Validierung der Eingabe (Url, E-Mail, etc...)</label>
+			<label index="validation_configuration.description">Dieser Wert beeinflusst die Überprüfung (z.B. kann bei der Bereichs-Überprüfung 1,10 eingegeben werden, um Werte zwischen 1 und 10 zuzulassen; bei der Muster-Überprüfung können reguläre Ausdrücke wie z.B. https?://.+ verwendet werden, um den Anfang eines Links auf das https-Protokoll zu validieren)</label>
+			<label index="prefill_title.description">Einstellungen zum Vorbefüllen</label>
+			<label index="prefill_value.description">Füllen Sie dieses Feld mit einem statischen Text vor</label>
+			<label index="placeholder.description">Ein Platzhalter-Text ist ein Beispiel, das dem Benutzer beim Ausfüllen hilft. Der Text wird im Feld in hellgrauer Schrift angezeigt. Bei einem Namens-Feld könnte z.B. "Max Mustermann" als Platzhalter angegeben werden.</label>
+			<label index="feuser_value.description">Füllen Sie dieses Feld mit einem Wert aus der Frontend-Benutzer-Tabelle (dies überschreibt den statischen Text)</label>
+			<label index="create_from_typoscript.description">Optionen können dynamisch per TypoScript generiert werden (z.B. lib.options=TEXT lib.options.value=red[\n]blue[\n]pink). Geben Sie den Pfad zum TypoScript-Objekt an.</label>
+			<label index="css.description">Wählen Sie ein Layout (Diese Änderung wirkt sich durch CSS-Klassen im Frontend aus)</label>
+			<label index="datepicker_settings.description">Art des Datumswählers wählen (nur Datum, nur Zeit oder Datum und Zeit)</label>
+			<label index="marker_title.description">Variablen-Einstellungen</label>
+			<label index="auto_marker.description">Diese Variable wurde automatisch vom System erstellt</label>
+			<label index="marker.description">Benutzen Sie Ihre eigene Variable in einem RTE (z.B.)</label>
+			<label index="own_marker_select.description">Nutzen Sie diese Einstellung, wenn Sie die automatisch erstellte Variable überschreiben wollen</label>
+			<label index="pages.description">Verwandte Seite zum Feld hinzufügen</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+			<label index="crdate.description">Zeit der E-Mail-Erstellung</label>
+			<label index="sender_mail.description">E-Mail-Adresse des Absenders</label>
+			<label index="sender_name.description">Name des Absenders</label>
+			<label index="subject.description">E-Mail-Betreff</label>
+			<label index="body.description">Alle Eingabe-Werte auf einen Blick</label>
+			<label index="receiver_mail.description">E-Mail des Empfängers</label>
+			<label index="form.description">Verwandtes Formular</label>
+			<label index="answers.description">Alle übertragenen Antworten</label>
+			<label index="feuser.description">Dieser FE-Benutzer sendet die E-Mail (wenn das Feld leer ist, wird die Mail von einem nicht registrierten Benutzer versendet)</label>
+			<label index="spam_factor.description">Spam-Faktor dieser Mail (wenn der Faktor zu hoch ist, wird die Mail nicht akzeptiert)</label>
+			<label index="time.description">Benötigte Zeit für das Ausfüllen des Formulars</label>
+			<label index="sender_ip.description">IP-Adresse des Absenders</label>
+			<label index="user_agent.description">Browser-Agent des Absenders</label>
+			<label index="marketing_referer_domain.description">Zuletzt aufgerufene Domain des Benutzers, bevor er diese URL aufgerufen hat</label>
+			<label index="marketing_referer.description">Zuletzt aufgerufene URL des Benutzers, bevor er diese URL aufgerufen hat</label>
+			<label index="marketing_country.description">Benutzer befindet sich in folgendem Land</label>
+			<label index="marketing_mobile_device.description">Benutzer verwendet ein Mobilgerät</label>
+			<label index="marketing_frontend_language.description">Benutzer surfte in der folgenden TYPO3-Frontend-Sprache</label>
+			<label index="marketing_browser_language.description">Browser-Sprache des Benutzers</label>
+			<label index="marketing_page_funnel.description">"Interner Page Funnel" bis zum Absenden des Formulars</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

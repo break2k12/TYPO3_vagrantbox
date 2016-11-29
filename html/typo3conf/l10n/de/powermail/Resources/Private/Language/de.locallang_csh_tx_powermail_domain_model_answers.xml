@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+			<label index="value.description">Antwort eines Besuchers</label>
+			<label index="value_type.description">Datentyp der Antwort</label>
+			<label index="field.description">Verknüpftes Feld</label>
+			<label index="mail.description">Mail, zu der die Antwort gehört</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

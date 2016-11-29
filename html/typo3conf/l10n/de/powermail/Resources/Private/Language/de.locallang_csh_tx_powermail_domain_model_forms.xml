@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+			<label index="title.description">Geben Sie eine Bezeichnung für dieses Formular ein</label>
+			<label index="pages.description">Fügen Sie dem Formular eine Beschreibung hinzu</label>
+			<label index="css.description">Wählen Sie ein Layout (Diese Änderung wirkt sich durch CSS-Klassen im Frontend aus)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

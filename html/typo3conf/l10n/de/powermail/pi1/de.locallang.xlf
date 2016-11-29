@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-11-30T15:09:41Z" product-name="powermail" target-language="de">
+    <header/>
+    <body>
+      <trans-unit id="powermailmarker_notitle" xml:space="preserve" approved="yes">
+        <source>ERROR: No title to current field found in DB (%s)</source>
+      <target state="translated">FEHLER: Feldtitel für "%s" nicht vorhanden</target></trans-unit>
+      <trans-unit id="locallangmarker_confirmation_question" xml:space="preserve" approved="yes">
+        <source>Are these values correct?</source>
+      <target state="translated">Sind diese Angaben korrekt?</target></trans-unit>
+      <trans-unit id="locallangmarker_confirmation_back" xml:space="preserve" approved="yes">
+        <source>Go back</source>
+      <target state="translated">Zurück</target></trans-unit>
+      <trans-unit id="locallangmarker_confirmation_files" xml:space="preserve" approved="yes">
+        <source>Attached file %s:</source>
+      <target state="translated">Angehängte Datei %s:</target></trans-unit>
+      <trans-unit id="locallangmarker_confirmation_submit" xml:space="preserve" approved="yes">
+        <source>Send values now</source>
+      <target state="translated">Angaben abschicken</target></trans-unit>
+      <trans-unit id="locallangmarker_email_receiver" xml:space="preserve" approved="yes">
+        <source>Thank you for your email:</source>
+      <target state="translated">Vielen Dank für die E-Mail:</target></trans-unit>
+      <trans-unit id="locallangmarker_email_sender" xml:space="preserve" approved="yes">
+        <source>You've got a new email:</source>
+      <target state="translated">Sie haben eine neue E-Mail erhalten:</target></trans-unit>
+      <trans-unit id="locallangmarker_mandatory_message" xml:space="preserve" approved="yes">
+        <source>There are some errors:</source>
+      <target state="translated">Folgende Fehler sind aufgetreten:</target></trans-unit>
+      <trans-unit id="locallangmarker_mandatory_emptyfield" xml:space="preserve" approved="yes">
+        <source>This field must be filled:</source>
+      <target state="translated">Diese Felder bitte ausfüllen:</target></trans-unit>
+      <trans-unit id="locallangmarker_mandatory_submit" xml:space="preserve" approved="yes">
+        <source>Go back to the form</source>
+      <target state="translated">Zurück zum Formular</target></trans-unit>
+      <trans-unit id="locallangmarker_error_validemail" xml:space="preserve" approved="yes">
+        <source>This is not a valid email address:</source>
+      <target state="translated">Dies ist keine gültige E-Mail-Adresse:</target></trans-unit>
+      <trans-unit id="locallangmarker_error_file_main" xml:space="preserve" approved="yes">
+        <source>This file could not be uploaded:</source>
+      <target state="translated">Die Datei konnte nicht hochgeladen werden:</target></trans-unit>
+      <trans-unit id="locallangmarker_error_file_toolarge" xml:space="preserve" approved="yes">
+        <source>This file is too large:</source>
+      <target state="translated">Diese Datei ist zu groß:</target></trans-unit>
+      <trans-unit id="locallangmarker_error_file_extension" xml:space="preserve" approved="yes">
+        <source>This file extension is not allowed:</source>
+      <target state="translated">Diese Dateiendung ist nicht erlaubt:</target></trans-unit>
+      <trans-unit id="locallangmarker_error_file_mimetype" xml:space="preserve" approved="yes">
+        <source>Uploaded file don't fits mime check:</source>
+      <target state="translated">Die hochgeladene Datei hat nicht den richtigen mime-Typ.</target></trans-unit>
+      <trans-unit id="error_check_recipient" xml:space="preserve" approved="yes">
+        <source>Please fill in this backend field: Email address of receiver</source>
+      <target state="translated">Empfängerfeld im Backend nicht ausgefüllt!</target></trans-unit>
+      <trans-unit id="error_check_noTS" xml:space="preserve" approved="yes">
+        <source>Typoscript for powermail missing!</source>
+      <target state="translated">Powermail - TypoScript nicht vorhanden!</target></trans-unit>
+      <trans-unit id="error_captcha_empty" xml:space="preserve" approved="yes">
+        <source>Captcha Code empty</source>
+      <target state="translated">Bitte den angezeigten Captcha-Code eintragen</target></trans-unit>
+      <trans-unit id="error_captcha_wrong" xml:space="preserve" approved="yes">
+        <source>Captcha Code wrong</source>
+      <target state="translated">Der eingetragene Code war leider falsch</target></trans-unit>
+      <trans-unit id="error_backend_noip" xml:space="preserve" approved="yes">
+        <source>IP logging disabled</source>
+      <target state="translated">IP-Speicherung deaktiviert</target></trans-unit>
+      <trans-unit id="error_validemail" xml:space="preserve" approved="yes">
+        <source>Email address is not valid</source>
+      <target state="translated">Die eingegebenen E-Mail-Adresse enthält Fehler</target></trans-unit>
+      <trans-unit id="error_nomx" xml:space="preserve" approved="yes">
+        <source>Email address doesn't exist</source>
+      <target state="translated">Die eingegebene E-Mail-Adresse existiert nicht</target></trans-unit>
+      <trans-unit id="error_unique_field" xml:space="preserve" approved="yes">
+        <source>%s was already used</source>
+      <target state="translated">%s wurde bereits eingetragen</target></trans-unit>
+      <trans-unit id="error_unique_ip" xml:space="preserve" approved="yes">
+        <source>IP address %s already made an entry</source>
+      <target state="translated">Ein Besucher mit der IP-Adresse %s hat bereits einen Eintrag hinterlassen</target></trans-unit>
+      <trans-unit id="error_expression_validation" xml:space="preserve" approved="yes">
+        <source>Validation failed</source>
+      <target state="translated">Überprüfung fehlgeschlagen</target></trans-unit>
+      <trans-unit id="error_templateNotFound" xml:space="preserve" approved="yes">
+        <source>Template not found, check path to your powermail templates</source>
+      <target state="translated">Vorlage nicht gefunden. Den Pfad für die powermail-Vorlagen überprüfen.</target></trans-unit>
+      <trans-unit id="error_captchaWrongExt" xml:space="preserve" approved="yes">
+        <source>Powermail ERROR: The chosen captcha extension "%s" is not loaded! Choose another captcha extension in the powermail constants or install the extension "%s".</source>
+      <target state="translated">Die gewählte Erweiterung "%s" ist nicht geladen! Wählen Sie eine andere Captcha-Erweiterung in den powermail-Konstanten oder installieren Sie die Erweiterung "%s".</target></trans-unit>
+      <trans-unit id="error_captchaNoExtFound" xml:space="preserve" approved="yes">
+        <source>Please install a captcha extension like captcha, sr_freecap, jm_recaptcha or wt_calculating_captcha!</source>
+      <target state="translated">Bitte installieren Sie eine Captcha-Erweiterung wie captcha, sr_freecap, jm_recaptcha oder wt_calculating_captcha!</target></trans-unit>
+      <trans-unit id="multiple_forward" xml:space="preserve" approved="yes">
+        <source>Next step</source>
+      <target state="translated">Nächster Schritt</target></trans-unit>
+      <trans-unit id="multiple_back" xml:space="preserve" approved="yes">
+        <source>Previous step</source>
+      <target state="translated">Vorheriger Schritt</target></trans-unit>
+      <trans-unit id="pagebrowser_inner" xml:space="preserve" approved="yes">
+        <source>of</source>
+      <target state="translated">von</target></trans-unit>
+      <trans-unit id="JSvalidation_label_required" xml:space="preserve" approved="yes">
+        <source>This is a required field</source>
+      <target state="translated">Dies ist ein Pflichtfeld</target></trans-unit>
+      <trans-unit id="JSvalidation_label_please_correct" xml:space="preserve" approved="yes">
+        <source>Please correct this value</source>
+      <target state="translated">Bitte korrigieren Sie Ihre Eingabe</target><alt-trans xml:space="preserve" origin="maholtz"><target>Bitte korrigieren Sie Ihre Eingabe</target></alt-trans></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_number" xml:space="preserve" approved="yes">
+        <source>Please enter a valid number in this field</source>
+      <target state="translated">Bitte eine Nummer eintragen</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_digits" xml:space="preserve" approved="yes">
+        <source>Please use numbers only in this field. please avoid spaces or other characters such as dots or commas</source>
+      <target state="translated">Bitte eine Nummer ohne Komma oder Punkt eintragen</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_alpha" xml:space="preserve" approved="yes">
+        <source>Please use letters only (a-z) in this field</source>
+      <target state="translated">Bitte nur Buchstaben (a-z) eingeben</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_alphanum" xml:space="preserve" approved="yes">
+        <source>Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed</source>
+      <target state="translated">Bitte nur Buchstaben (a-z) oder Zahlen (0-9) eingeben. Leer- oder andere Zeichen sind nicht erlaubt</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_date" xml:space="preserve" approved="yes">
+        <source>Please enter a valid date</source>
+      <target state="translated">Bitte ein gültiges Datum eingeben</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_datetime" xml:space="preserve" approved="yes">
+        <source>Please enter a valid date and time</source>
+      <target state="translated">Bitte ein gültiges Datum mit Uhrzeit eingeben</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_email" xml:space="preserve" approved="yes">
+        <source>Please enter a valid email address (test@test.com)</source>
+      <target state="translated">Bitte eine gültige E-Mail-Adresse eingeben (test@test.com)</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_url" xml:space="preserve" approved="yes">
+        <source>Please enter a valid URL (http://www.test.com)</source>
+      <target state="translated">Bitte eine gültige URL eingeben (z.B. http://www.test.de)</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_date_au" xml:space="preserve" approved="yes">
+        <source>Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006</source>
+      <target state="translated">Bitte ein Datum im Format dd/mm/yyyy eingeben</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_currency_dollar" xml:space="preserve" approved="yes">
+        <source>Please enter a valid $ amount. For example $100.00</source>
+      <target state="translated">Bitte einen gültigen Betrag eingeben (z.B. $100.00)</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_selection" xml:space="preserve" approved="yes">
+        <source>Please make a selection</source>
+      <target state="translated">Bitte treffen Sie eine Auswahl</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_one_required" xml:space="preserve" approved="yes">
+        <source>Please select one of the below options</source>
+      <target state="translated">Bitte treffen Sie mindestens eine Auswahl</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_max" xml:space="preserve" approved="yes">
+        <source>Please enter a value greater than $1</source>
+      <target state="translated">Bitte einen Wert grösser als $1 eingeben</target></trans-unit>
+      <trans-unit id="JSvalidation_label_validate_min" xml:space="preserve" approved="yes">
+        <source>Please enter a value smaller than $1</source>
+      <target state="translated">Bitte einen Wert kleiner als $1 eingeben</target></trans-unit>
+      <trans-unit id="JSvalidation_dateinput_months" xml:space="preserve" approved="yes">
+        <source>January,February,March,April,May,June,July,August,September,October,November,December</source>
+      <target state="translated">Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember</target></trans-unit>
+      <trans-unit id="JSvalidation_dateinput_shortMonths" xml:space="preserve" approved="yes">
+        <source>Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec</source>
+      <target state="translated">Jan,Feb,Mrz,Apr,Mai,Jun,Jul,Aug,Sep,Okt,Nov,Dez</target></trans-unit>
+      <trans-unit id="JSvalidation_dateinput_days" xml:space="preserve" approved="yes">
+        <source>Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday</source>
+      <target state="translated">Sonntag,Montag,Dienstag,Mittwoch,Donnerstag,Freitag,Samstag</target></trans-unit>
+      <trans-unit id="JSvalidation_dateinput_shortDays" xml:space="preserve" approved="yes">
+        <source>Sun,Mon,Tue,Wed,Thu,Fri,Sat</source>
+      <target state="translated">So,Mo,Di,Mi,Do,Fr,Sa</target></trans-unit>
+      <trans-unit id="JSvalidation_dateinput_firstDay" xml:space="preserve" approved="yes">
+        <source>0</source>
+      <target state="translated">1</target></trans-unit>
+      <trans-unit id="JSvalidation_dateinput_format" xml:space="preserve" approved="yes">
+        <source>yyyy-mm-dd</source>
+      <target state="translated">dd.mm.yyyy</target></trans-unit>
+      <trans-unit id="JSvalidation_invalidtime" xml:space="preserve" approved="yes">
+        <source>Invalid time</source>
+      <target state="translated">Ungültige Zeit</target></trans-unit>
+      <trans-unit id="geoip_ip" xml:space="preserve" approved="yes">
+        <source>IP address</source>
+      <target state="translated">IP-Adresse</target></trans-unit>
+      <trans-unit id="geoip_countryCode" xml:space="preserve" approved="yes">
+        <source>Country Code</source>
+      <target state="translated">Länderkennung</target></trans-unit>
+      <trans-unit id="geoip_countryName" xml:space="preserve" approved="yes">
+        <source>Country</source>
+      <target state="translated">Land</target></trans-unit>
+      <trans-unit id="geoip_region" xml:space="preserve" approved="yes">
+        <source>Region</source>
+      <target state="translated">Region</target></trans-unit>
+      <trans-unit id="geoip_city" xml:space="preserve" approved="yes">
+        <source>City</source>
+      <target state="translated">Stadt</target></trans-unit>
+      <trans-unit id="geoip_zip" xml:space="preserve" approved="yes">
+        <source>ZIP</source>
+      <target state="translated">PLZ</target></trans-unit>
+      <trans-unit id="geoip_lng" xml:space="preserve" approved="yes">
+        <source>LNG</source>
+      <target state="translated">Längengrad</target></trans-unit>
+      <trans-unit id="geoip_lat" xml:space="preserve" approved="yes">
+        <source>LAT</source>
+      <target state="translated">Breitengrad</target></trans-unit>
+      <trans-unit id="geoip_dmaCode" xml:space="preserve" approved="yes">
+        <source>DMA Code</source>
+      <target state="translated">DMA-Kennung</target></trans-unit>
+      <trans-unit id="geoip_areaCode" xml:space="preserve" approved="yes">
+        <source>Area Code</source>
+      <target state="translated">Gebietskennung</target></trans-unit>
+    </body>
+  </file>
+</xliff>

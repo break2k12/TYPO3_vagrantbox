@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+      <label index="title">Powermail</label>
+      <label index="function1">Powermail-Liste und-Export</label>
+      <label index="function2">Powermail-Diagramme</label>
+      <label index="nopowermails1">Keine Powermails auf aktueller Seite!</label>
+      <label index="nopowermails2">Bitte wählen Sie eine Seite mit Powermails aus.</label>
+      <label index="title_no">#</label>
+      <label index="title_date">Datum</label>
+      <label index="title_sender">Absender</label>
+      <label index="title_IP">Absender-IP</label>
+      <label index="title_receiver">Empfänger</label>
+      <label index="title_details">Details</label>
+      <label index="title_delete">Löschen</label>
+      <label index="export_download_success">Erfolg!</label>
+      <label index="export_download_download">CSV-Datei herunterladen</label>
+      <label index="export_download_downloadZIP">Komprimierte CSV-Datei herunterladen</label>
+      <label index="export_icon_excel">Export im Excel-Format</label>
+      <label index="export_icon_csv">Export im CSV-Format</label>
+      <label index="export_icon_html">Export im HTML-Format</label>
+      <label index="icon_deloff">Löschen nach Export deaktiviert! Klicken, um Löschen nach Export zu aktivieren</label>
+      <label index="icon_delon">Löschen nach Export aktiviert! Klicken, um Löschen nach Export zu deaktivieren</label>
+      <label index="icon_print">Hier klicken, um diese Ansicht zu drucken</label>
+      <label index="icon_close">Hier klicken, um das Popup zu schließen</label>
+      <label index="delall_sure">Alle E-Mails werden nach dem Export automatisch gelöscht, sind Sie sicher?</label>
+      <label index="pagebrowser_page">Seite</label>
+      <label index="pagebrowser_upto">bis</label>
+      <label index="pagebrowser_within">von insgesamt</label>
+      <label index="filter_start">Beginn</label>
+      <label index="filter_end">Ende</label>
+      <label index="del_sure">Diesen Datensatz tatsächlich löschen?</label>
+      <label index="del_message">E-Mail mit der uid %s erfolgreich gelöscht!</label>
+      <label index="chart_chart">Diagramm: Anzahl der letzten E-Mails</label>
+      <label index="chart_table">Tabelle: Details über die letzten E-Mails</label>
+      <label index="path">Pfad</label>
+      <label index="wait">Bitte warten...</label>
+      <label index="loading">Datensätze werden geladen!</label>
+      <label index="delete">Löschen</label>
+      <label index="perpage">Pro Seite</label>
+      <label index="deletechosen">Ausgewählte Datensätze löschen</label>
+      <label index="choseline">Ein Fehler ist aufgetreten</label>
+      <label index="choseline2">Bitte wählen Sie mindestens eine Zeile aus!</label>
+      <label index="yes">Ja</label>
+      <label index="no">Nein</label>
+      <label index="created">Erstellt</label>
+      <label index="delsure">Ausgewählte Datensätze tatsächlich löschen?</label>
+      <label index="showrows">Datensätze {0} - {1} von {2} anzeigen</label>
+      <label index="noresults">Keine Datensätze vorhanden</label>
+      <label index="rows">Datensätze</label>
+      <label index="shortcut">Erstellt eine Verknüpfung zu dieser Seite</label>
+      <label index="exportformat">Exportformat:</label>
+      <label index="exportpdf">PDF-Export</label>
+      <label index="exporthtml">HTML-Export</label>
+      <label index="exportcsv">CSV-Export</label>
+      <label index="exportxls">XLS-Export</label>
+      <label index="start">Beginn:</label>
+      <label index="end">Ende:</label>
+      <label index="pivars">piVars</label>
+      <label index="date">Datum</label>
+      <label index="sender">Absender</label>
+      <label index="receiver">Empfänger</label>
+      <label index="ip">IP-Adresse</label>
+      <label index="phpexcel_library">Bitte installieren Sie die Erweiterung phpexcel_library!</label>
+      <label index="noPdf">Dieses Export-Format ist derzeit nicht implementiert. Bitte kontaktieren Sie das Powermail Entwicklungsteam, wenn Sie diese Funktion sponsoren möchten.</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

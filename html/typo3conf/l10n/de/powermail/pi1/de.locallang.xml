@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+      <label index="powermailmarker_notitle">FEHLER: Feldtitel für "%s" nicht vorhanden</label>
+      <label index="locallangmarker_confirmation_question">Sind diese Angaben korrekt?</label>
+      <label index="locallangmarker_confirmation_back">Zurück</label>
+      <label index="locallangmarker_confirmation_files">Angehängte Datei %s:</label>
+      <label index="locallangmarker_confirmation_submit">Angaben abschicken</label>
+      <label index="locallangmarker_email_receiver">Vielen Dank für die E-Mail:</label>
+      <label index="locallangmarker_email_sender">Sie haben eine neue E-Mail erhalten:</label>
+      <label index="locallangmarker_mandatory_message">Folgende Fehler sind aufgetreten:</label>
+      <label index="locallangmarker_mandatory_emptyfield">Diese Felder bitte ausfüllen:</label>
+      <label index="locallangmarker_mandatory_submit">Zurück zum Formular</label>
+      <label index="locallangmarker_error_validemail">Dies ist keine gültige E-Mail-Adresse:</label>
+      <label index="locallangmarker_error_file_main">Die Datei konnte nicht hochgeladen werden:</label>
+      <label index="locallangmarker_error_file_toolarge">Diese Datei ist zu groß:</label>
+      <label index="locallangmarker_error_file_extension">Diese Dateiendung ist nicht erlaubt:</label>
+      <label index="locallangmarker_error_file_mimetype">Die hochgeladene Datei hat nicht den richtigen mime-Typ.</label>
+      <label index="error_check_recipient">Empfängerfeld im Backend nicht ausgefüllt!</label>
+      <label index="error_check_noTS">Powermail - TypoScript nicht vorhanden!</label>
+      <label index="error_captcha_empty">Bitte den angezeigten Captcha-Code eintragen</label>
+      <label index="error_captcha_wrong">Der eingetragene Code war leider falsch</label>
+      <label index="error_backend_noip">IP-Speicherung deaktiviert</label>
+      <label index="error_validemail">Die eingegebenen E-Mail-Adresse enthält Fehler</label>
+      <label index="error_nomx">Die eingegebene E-Mail-Adresse existiert nicht</label>
+      <label index="error_unique_field">%s wurde bereits eingetragen</label>
+      <label index="error_unique_ip">Ein Besucher mit der IP-Adresse %s hat bereits einen Eintrag hinterlassen</label>
+      <label index="error_expression_validation">Überprüfung fehlgeschlagen</label>
+      <label index="error_templateNotFound">Vorlage nicht gefunden. Den Pfad für die powermail-Vorlagen überprüfen.</label>
+      <label index="error_captchaWrongExt">Die gewählte Erweiterung "%s" ist nicht geladen! Wählen Sie eine andere Captcha-Erweiterung in den powermail-Konstanten oder installieren Sie die Erweiterung "%s".</label>
+      <label index="error_captchaNoExtFound">Bitte installieren Sie eine Captcha-Erweiterung wie captcha, sr_freecap, jm_recaptcha oder wt_calculating_captcha!</label>
+      <label index="multiple_forward">Nächster Schritt</label>
+      <label index="multiple_back">Vorheriger Schritt</label>
+      <label index="pagebrowser_inner">von</label>
+      <label index="JSvalidation_label_required">Dies ist ein Pflichtfeld</label>
+      <label index="JSvalidation_label_please_correct">Bitte korrigieren Sie Ihre Eingabe</label>
+      <label index="JSvalidation_label_validate_number">Bitte eine Nummer eintragen</label>
+      <label index="JSvalidation_label_validate_digits">Bitte eine Nummer ohne Komma oder Punkt eintragen</label>
+      <label index="JSvalidation_label_validate_alpha">Bitte nur Buchstaben (a-z) eingeben</label>
+      <label index="JSvalidation_label_validate_alphanum">Bitte nur Buchstaben (a-z) oder Zahlen (0-9) eingeben. Leer- oder andere Zeichen sind nicht erlaubt</label>
+      <label index="JSvalidation_label_validate_date">Bitte ein gültiges Datum eingeben</label>
+      <label index="JSvalidation_label_validate_datetime">Bitte ein gültiges Datum mit Uhrzeit eingeben</label>
+      <label index="JSvalidation_label_validate_email">Bitte eine gültige E-Mail-Adresse eingeben (test@test.com)</label>
+      <label index="JSvalidation_label_validate_url">Bitte eine gültige URL eingeben (z.B. http://www.test.de)</label>
+      <label index="JSvalidation_label_validate_date_au">Bitte ein Datum im Format dd/mm/yyyy eingeben</label>
+      <label index="JSvalidation_label_validate_currency_dollar">Bitte einen gültigen Betrag eingeben (z.B. $100.00)</label>
+      <label index="JSvalidation_label_validate_selection">Bitte treffen Sie eine Auswahl</label>
+      <label index="JSvalidation_label_validate_one_required">Bitte treffen Sie mindestens eine Auswahl</label>
+      <label index="JSvalidation_label_validate_max">Bitte einen Wert grösser als $1 eingeben</label>
+      <label index="JSvalidation_label_validate_min">Bitte einen Wert kleiner als $1 eingeben</label>
+      <label index="JSvalidation_dateinput_months">Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember</label>
+      <label index="JSvalidation_dateinput_shortMonths">Jan,Feb,Mrz,Apr,Mai,Jun,Jul,Aug,Sep,Okt,Nov,Dez</label>
+      <label index="JSvalidation_dateinput_days">Sonntag,Montag,Dienstag,Mittwoch,Donnerstag,Freitag,Samstag</label>
+      <label index="JSvalidation_dateinput_shortDays">So,Mo,Di,Mi,Do,Fr,Sa</label>
+      <label index="JSvalidation_dateinput_firstDay">1</label>
+      <label index="JSvalidation_dateinput_format">dd.mm.yyyy</label>
+      <label index="JSvalidation_invalidtime">Ungültige Zeit</label>
+      <label index="geoip_ip">IP-Adresse</label>
+      <label index="geoip_countryCode">Länderkennung</label>
+      <label index="geoip_countryName">Land</label>
+      <label index="geoip_region">Region</label>
+      <label index="geoip_city">Stadt</label>
+      <label index="geoip_zip">PLZ</label>
+      <label index="geoip_lng">Längengrad</label>
+      <label index="geoip_lat">Breitengrad</label>
+      <label index="geoip_dmaCode">DMA-Kennung</label>
+      <label index="geoip_areaCode">Gebietskennung</label>
+    </languageKey>
+  </data>
+</T3locallangExt>
