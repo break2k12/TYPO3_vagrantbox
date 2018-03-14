@@ -18,13 +18,13 @@ echo mysql-server mysql-server/root_password password root | sudo debconf-set-se
 echo mysql-server mysql-server/root_password_again password root | sudo debconf-set-selections
 sudo apt-get -y install mysql-server
 
-sudo apt-get -y install php5-mysql
+sudo apt-get -y install php-mysql
 sudo apt-get -y install php-apc
-sudo apt-get -y install php5-curl
-sudo apt-get -y install libapache2-mod-php5
-sudo apt-get -y install php5-gd
-sudo apt-get -y install php5-gmp
-sudo apt-get -y install php5-imagick
+sudo apt-get -y install php-curl
+sudo apt-get -y install libapache2-mod-php
+sudo apt-get -y install php-gd
+sudo apt-get -y install php-gmp
+sudo apt-get -y install php-imagick
 sudo apt-get -y install imagemagick
 sudo apt-get -y install graphicsmagick
 sudo apt-get -y install vim
@@ -35,17 +35,17 @@ sudo service apache2 restart
 sudo chown -R www-data:www-data /var/www/html
 
 cd  /var/www
-if [ ! -e /var/www/typo3_src-7.6.14.tar.gz ]; then
-    sudo wget http://prdownloads.sourceforge.net/typo3/typo3_src-7.6.14.tar.gz
+if [ ! -e /var/www/typo3_src-7.6.22.tar.gz ]; then
+    sudo wget http://prdownloads.sourceforge.net/typo3/typo3_src-7.6.22.tar.gz
 fi
-if [ ! -d /var/www/typo3_src-7.6.14 ]; then
-    sudo tar xzf typo3_src-7.6.14.tar.gz
+if [ ! -d /var/www/typo3_src-7.6.22 ]; then
+    sudo tar xzf typo3_src-7.6.2.tar.gz
 fi
-if [ -e /var/www/typo3_src-7.6.14.tar.gz ]; then
-    sudo rm -rf typo3_src-7.6.14.tar.gz
+if [ -e /var/www/typo3_src-7.6.2.tar.gz ]; then
+    sudo rm -rf typo3_src-7.6.22.tar.gz
 fi
 cd /var/www/html
-sudo ln -s ../typo3_src-7.6.14 typo3_src
+sudo ln -s ../typo3_src-7.6.22 typo3_src
 sudo ln -s typo3_src/index.php index.php
 sudo ln -s typo3_src/typo3 typo3
 sudo cp typo3_src/_.htaccess .htaccess
